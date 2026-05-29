@@ -14,7 +14,7 @@
 <!--Intro start-->
 - 🔭 I'm currently working on **EduAI Platform** an integrated virtual educational campus with AI assistant.
 
-- 🌱 I'm currently learning React, Python and Node.js.
+- 🌱 I'm currently learning React and Node.js.
 
 - 📚 Third-year Software Development student at Insituto de Estudios Superiores(IES-Santa Fe)
 
@@ -70,7 +70,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maximo-rojas-88800a340/" target="_blank">
+  <a href="https://www.linkedin.com/in/m%C3%A1ximo-rojas-88800a340/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 
